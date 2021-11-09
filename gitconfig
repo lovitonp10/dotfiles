@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lovitonp10@gmail.com
+	name = Pierre Loviton
